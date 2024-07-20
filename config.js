@@ -10,9 +10,9 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51927923226', '𝙋𝙄𝙉𝙆𝙄𝙀𝙎𝙃𝙔.𝘿𝙕𝙉 - 𝙈𝘿 (NO VENTAS)', true],
+  ['593939535238', '𝙒𝘼𝙒𝙆𝙄 𝘽𝙊𝙏 - 𝙈𝘿 (NO VENTAS)', true],
   ['51936732723', '𝘾𝙍𝙀𝘼𝘿𝙊𝙍 (SI VENTAS)', true],
-  ['51923665976', '𝙋𝙄𝙉𝙆𝙄𝙀 (NO VENTAS)', true],
+  ['593967946271', '𝙅𝙭𝙨𝙨.𝙭𝙇 (NO VENTAS)', true],
   ['', '', true],
   ['', '', true],
   ['', '', true],
